@@ -13,7 +13,7 @@ public class Country extends Property {
     // Fields
     private final String COLOR;// the color of the countries
     private int numHouses = 0;// number of houses, maximum 4
-    private int housePrice;// the price of a house
+    private int housePrice;// the price of a house.
 
     // Mapping of color sets to the number of properties in that set
     public static final HashMap<String, Integer> colorSetMapper = new HashMap<>(){{
