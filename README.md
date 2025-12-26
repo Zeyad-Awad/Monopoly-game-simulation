@@ -5,8 +5,8 @@ This project is a sophisticated simulation of the classic board game **Monopoly*
 
 The project successfully confirmed findings from established literature regarding the probability of non-ending games in Monopoly, specifically validating the 12% non-ending game probability in 2-player scenarios as discussed in [ESTIMATING THE PROBABILITY THAT THE GAME OF MONOPOLY NEVER ENDS](https://www.informs-sim.org/wsc09papers/036.pdf).
 
-## Team Members
-1. **Zeyad Awad**
+## Contributers
+1. **Zeyad Ahmed**
 2. **Hashem Bader**
 
 ## Game Description
